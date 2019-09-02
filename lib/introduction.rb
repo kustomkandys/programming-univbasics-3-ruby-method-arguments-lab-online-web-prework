@@ -8,7 +8,7 @@ introduction(name) do
  end
  
  introduction_with_language(name, language) do
-   puts 
+   puts "Hi, my name is #{name} and I am learning to program in Ember.js.\n"
 
 
 
